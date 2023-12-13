@@ -1,0 +1,27 @@
+{
+	"name": "backend_modules",
+	"version": "1.0.0",
+	"description": "",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": "",
+	"license": "ISC",
+	"dependencies": {
+		"@liaoliaots/nestjs-redis": "^9.0.5",
+		"@mikro-orm/nestjs": "^5.2.2",
+		"@mikro-orm/postgresql": "^5.9.4",
+		"@nestjs-modules/mailer": "^1.9.1",
+		"@nestjs/jwt": "^10.2.0",
+		"@nestjs/swagger": "^7.1.16",
+		"ejs": "^3.1.9",
+		"ethereumjs-util": "^7.1.5",
+		"firebase-admin": "^12.0.0",
+		"ioredis": "^5.3.2",
+		"joi": "^17.11.0",
+		"multer": "^1.4.5-lts.1",
+		"nest-fastify-multer": "^1.0.1",
+		"nestjs-joi": "^1.10.0",
+		"puppeteer": "^21.6.0"
+	}
+}
